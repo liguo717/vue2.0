@@ -15,7 +15,7 @@
         "vue": "^2.5.2",
         "vue-router": "^3.0.1",
         "axios": "^0.18.0",
-        "jquery": "^1.12.4",
+        "jquery": "^3.5.0",
         "jquery-serializejson": "^2.8.1",
         "vue-meta": "^1.5.0",
         "vuex": "^3.0.0",
